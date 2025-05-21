@@ -23,9 +23,7 @@
 
 ---
 
-**Documentation**: <a href="https://microsoft.github.io/reconner" target="_blank">https://microsoft.github.io/reconner</a>
 
-**Source Code**: <a href="https://github.com/microsoft/reconner" target="_blank">https://github.com/microsoft/reconner</a>
 
 ---
 
