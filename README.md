@@ -38,7 +38,7 @@ The key features are:
 
 ## Requirements
 
-Python 3.6+
+
 
 `ReconNER` is built on a few comprehensive, high-performing packages.
 
