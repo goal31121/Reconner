@@ -49,17 +49,7 @@ Python 3.6+
 * <a href="https://typer.tiangolo.com" class="external-link" target="_blank">Typer (CLI)</a>.
 
 
-## Installation
 
-<div class="termy">
-
-```console
-$ pip install reconner
----> 100%
-Successfully installed reconner
-```
-
-</div>
 
 ## License
 
